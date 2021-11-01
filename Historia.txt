@@ -1,3 +1,4 @@
 Esta es la historia de Job Gutierrez
 Job tiene 25 años y aprovecho PlatziDay para aprender Git.
+master 1
 Mañana nos enfocaremos a su historia laboral.
