@@ -1,5 +1,4 @@
 body{
-    background: #1e1f24;
     background-color:black;
     color: #333;
     text-align: center;
@@ -42,7 +41,7 @@ body{
     font-size: 0.8em;
 }
 #footer{
-    background: #777;
+    background: #37488b;
     color: white;
     text-align: center;
     padding: 10px;
